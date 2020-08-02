@@ -3,6 +3,5 @@ __pycache__/
 venv/
 .vscode/
 node_modules/
-portal/
 .pyc
 .env
